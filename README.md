@@ -1,0 +1,2 @@
+# System-Controlling-and-Monitoring-Tilapia-Fish-Biofloc-Using-Fuzzy-Decision-fot-Classification
+Sebuah sistem yang mampu memantau kolam khususnya kolam biofloc ikan nila dengan output ditampilkan pada aplikasi smartphone dan data history akan tersimpan pada database guna melihat tren dari parameter yang diukur (suhu, pH, dan kekeruhan air). Kemudian, sistem juga dapat melakukan pengendalian pada parameter terukur secara otomatis.
