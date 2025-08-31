@@ -17,7 +17,7 @@ String hari;
 
 #define WIFI_SSID "HelmiFarmMandiri"          // Your WiFi SSID
 #define WIFI_PASSWORD "313354Okehh"      // Your WiFi Password
-#define REFERENCE_URL "https://hadimmarwan-7bc1f-default-rtdb.asia-southeast1.firebasedatabase.app/"  // Your Firebase project reference url
+#define REFERENCE_URL "https://hadimmarwan-bc1f-default-rtdb.asia-southeast1.firebasedatabase.app/"  // Your Firebase project reference url
 #define R1 13
 #define R2 12
 #define R3 14
@@ -55,7 +55,7 @@ DallasTemperature sensors(&oneWire);
 float Temperaturekoreksi;
 
 // Google script Web_App_URL.
-String Web_App_URL = "https://script.google.com/macros/s/AKfycbzsSWVr0GbCy4eHxbWxE4PjqCmQX6Bej-PeBRG1L7Fw29O7QbrPMWiSPXnoSBBr2jmi4A/exec"; //untuk database monitoring ikan lele
+String Web_App_URL = "https://script.google.com/macros/s/KfycbzsSWVr0GbCy4eHxbWxE4PjqCmQX6Bej-PeBRG1L7Fw29O7QbrPMWiSPXnoSBBr2jmi4A/exec"; //untuk database monitoring ikan lele
 
 String Status_Read_Sensor = "";
 String Status_Relay_1 = "";
